@@ -20,8 +20,9 @@
 
 - 拟合度反馈：系统会自动评估当前分布与理论值的吻合度，并给出 "Perfect Fit" 或 "High Inertia" 等状态提示。
 
-## 🛠️ 依赖库
-运行前请确保安装以下 Python 库：
+## 🛠️ requirements
+- python 3.12
+- 运行前请确保安装以下 Python 库：
 
 ```Bash
 pip install pygame matplotlib scipy numpy
